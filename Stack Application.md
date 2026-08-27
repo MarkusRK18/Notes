@@ -1,4 +1,4 @@
-### Implements the stack using a linked list
+## Implements the stack using a linked list
 
 Operation of Push, Pop, Peek,  Exit
 

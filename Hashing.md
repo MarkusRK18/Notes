@@ -1,4 +1,4 @@
-## Linear Probing Hashing Method
+# Linear Probing Hashing Method
 
 ```python
 class HashTable:

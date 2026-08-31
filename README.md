@@ -49,11 +49,3 @@ for i in range(n):
 			arr[j],arr[j+1] = arr[j+1],arr[j]
 	print(*arr)	
 ```
-
-
-## Merge Sorting
-
-```python
-
-
-```
